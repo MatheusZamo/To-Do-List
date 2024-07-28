@@ -12,14 +12,14 @@
 
     <header class="text-center text-light my-4">
       <h1 class="mb-4">To-do List</h1>
-      <form class="form-search">
+      <form class="form-search" data-search="form-search">
         <input class="form-control m-auto" type="text" name="search" placeholder="Buscar to-do" autocomplete="off" />
       </form>
     </header>
 
-    <ul class="todos-container list-group mx-auto text-light"></ul>
+    <ul class="todos-container list-group mx-auto text-light" data-js="todos-container"></ul>
 
-    <form class="form-add-todo text-center my-4">
+    <form class="form-add-todo text-center my-4" data-js="form-add-todo">
       <label class="text-light">Adicionar to-do</label>
       <input class="form-control m-auto" type="text" name="add" autofocus autocomplete="off"/>
     </form>
