@@ -1,5 +1,9 @@
 ## Todo-List 
 
+![Screenshot from 2024-08-01 21-14-44](https://github.com/user-attachments/assets/b12c654e-419d-41b6-84e0-8c444e43e42a)
+![Screenshot from 2024-08-01 21-16-01](https://github.com/user-attachments/assets/52a8f52b-1e23-485a-9dfe-ed2841becd86)
+
+
 Este projeto é um simples aplicativo de lista de tarefas (Todo-List) desenvolvido utilizando as tecnologias HTML, CSS e JavaScript. O objetivo é permitir que o usuário adicione, remova e filtre tarefas, com os dados sendo persistidos localmente no navegador através do localStorage.
 
 **Funcionalidades:**
