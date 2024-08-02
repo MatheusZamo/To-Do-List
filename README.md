@@ -1,6 +1,4 @@
-## Todo-List com JavaScript, CSS e HTML
-
-**Descrição:**
+## Todo-List 
 
 Este projeto é um simples aplicativo de lista de tarefas (Todo-List) desenvolvido utilizando as tecnologias HTML, CSS e JavaScript. O objetivo é permitir que o usuário adicione, remova e filtre tarefas, com os dados sendo persistidos localmente no navegador através do localStorage.
 
